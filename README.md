@@ -1,11 +1,14 @@
 # Fork ronald_galarza
-Para prueba Módulo 1 Desafío Latam
+Para prueba Módulo 1 Desafío Latam <br>
 
 Github Ronald Galarza
 https://github.com/Rgnald
 
 Repositorio Forkeado
 https://github.com/Rgnald/Cvportafolio
+
+Fork hecho por mi
+https://camisauurus.github.io/fork_ronald_galarza/
 
 <li>Modifiqué la navbar, ajustando los tamaños de los textos, para darle un estilo más amigable para la visualización.
 Además de darle un color de fondo completo y no sólo al texto.</li>
